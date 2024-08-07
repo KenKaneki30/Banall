@@ -1,8 +1,8 @@
 {
-    "name": "Ban all",
+    "name": "Soul BanAll",
     "description": "Power Packed Banall Within Seconds.",
-    "keywords": ["Zaid", "banall"],
-    "repository": "https://github.com/ITZ-ZAID/Banall",
+    "keywords": ["Soul", "banall"],
+    "repository": "https://github.com/KenKaneki30/Banall",
   "stack": "container",
     "env": {
         "TELEGRAM_TOKEN": {
